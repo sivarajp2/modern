@@ -13,11 +13,10 @@ import org.springframework.jdbc.core.RowMapper;
 @SpringBootApplication
 public class ModernizationApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ModernizationApplication.class, args);
-		
-	}
-	
+    public static void main(String[] args) {
+        SpringApplication.run(ModernizationApplication.class, args);
 
-	
+    }
+
+
 }

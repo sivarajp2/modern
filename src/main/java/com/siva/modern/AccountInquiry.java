@@ -1,18 +1,16 @@
 package com.siva.modern;
 
 public class AccountInquiry {
-	
-	    private String accountNumber;
 
-		public String getAccountNumber() {
-			return accountNumber;
-		}
+    private String accountNumber;
 
-		public void setAccountNumber(String accountNumber) {
-			this.accountNumber = accountNumber;
-		}
-   
+    public String getAccountNumber() {
+        return accountNumber;
+    }
+
+    public void setAccountNumber(String accountNumber) {
+        this.accountNumber = accountNumber;
+    }
 
 
-	}
-	
+}
